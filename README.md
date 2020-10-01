@@ -1,2 +1,2 @@
 # BachelorarbeitQi-
-This is my quellcode of my bachelor thesis
+This is the quellcode of my bachelor thesis 
